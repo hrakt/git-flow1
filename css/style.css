@@ -1,4 +1,12 @@
 body {
     background-color: green;
+
     margin: auto;
+
+    text-align: center;
+}
+
+h1 {
+    color: aliceblue;
+
 }
